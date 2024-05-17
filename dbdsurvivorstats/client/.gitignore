@@ -22,5 +22,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-../server/node_modules
-../server/secret.js
+
