@@ -23,3 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 ../server/node_modules
+../server/secret.js
