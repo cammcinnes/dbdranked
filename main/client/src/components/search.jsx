@@ -2,12 +2,12 @@
 
 function Search() {
     return (
-        <>
-        <label>
-            SteamID
-            <input name="SteamID"></input>
-        </label>
-        </>
+        <div class="">
+            <label class="">
+                SteamID
+                <input className="" name="SteamID"></input>
+            </label>
+        </div>
     )
 }
 
